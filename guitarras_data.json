@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "marca": "Gibson",
+        "price": 2500,
+        "model": "Les Paul",
+        "type": "Electric",
+        "Stock": 0
+    },
+    {
+        "id": 2,
+        "marca": "Fender",
+        "price": 1500,
+        "model": "Stratocaster",
+        "type": "Electric",
+        "Stock": 7
+    },
+    {
+        "id": 3,
+        "marca": "Godin",
+        "price": 2000,
+        "model": "A6 ULTRA",
+        "type": "Electro classic",
+        "Stock": 2
+    },
+    {
+        "id": 4,
+        "marca": "Martin",
+        "price": 1600,
+        "model": "Grand J-16E",
+        "type": "Electro Acoustic",
+        "Stock": 6
+    },
+    {
+        "id": 5,
+        "marca": "Gretsch",
+        "price": 1200,
+        "model": "Electromatic",
+        "type": "Semihollow",
+        "Stock": 7
+    },
+    {
+        "id": 6,
+        "marca": "Epiphone",
+        "price": 600,
+        "model": "SG",
+        "type": "Electric",
+        "Stock": 14
+    },
+    {
+        "id": 7,
+        "marca": "Ibanez",
+        "price": 500,
+        "model": "Gio",
+        "type": "Electric",
+        "Stock": 15
+    },
+    {
+        "id": 8,
+        "marca": "Sx",
+        "model": "Stratocaster",
+        "price": 100.0,
+        "type": "Electric",
+        "Stock": 300
+    },
+    {
+        "id": 9,
+        "marca": "Gibson",
+        "model": "SG",
+        "price": 2200.0,
+        "type": "Electric",
+        "Stock": 9
+    }
+]

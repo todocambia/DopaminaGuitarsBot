@@ -1,0 +1,12 @@
+{
+    "6932565341": [
+        {
+            "id": 1,
+            "marca": "Gibson",
+            "price": 2500,
+            "model": "Les Paul",
+            "type": "Electric",
+            "Stock": 0
+        }
+    ]
+}
